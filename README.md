@@ -1,6 +1,6 @@
 # Snake_Game
 
-## A small Project in which I used JavaScript to creat a simple Snake Game.
+## A small Project in which I used JavaScript to creat a simple Snake Game
 
 
 
